@@ -1,0 +1,94 @@
+{ 
+    margin: 0;
+    padding: 0;
+}
+#banner{
+	background: url('images.jpeg');
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+  }
+ 
+.logo{
+	width: 40;
+	position: absolute;
+	top: 20%;
+	left: 8%;
+}
+
+
+ .banner-text h1{
+	text-align: center;
+	font-size: 130px;
+	color: #009688;
+	font-family: kanshan script', cursive;
+}
+.banner-btn h2{
+     font-size: 30;
+     width: 40;
+	position: absolute;
+	top: 30%;
+	left: 11%;
+	color: #ff0000;
+
+}
+.banner-btn h3{
+     font-size: 30;
+     width: 40;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	color: #ff0000;
+	
+}
+.banner-btn h4{
+     width: 40;
+	position: absolute;
+	font-size: 30;
+	top: 28%;
+	left: 49%;
+	color: #ff0000;
+	
+}
+
+.banner-btn h5{
+    width: 40;
+     font-size: 30;
+	position: absolute;
+	top: 26%;
+	left: 65%;
+	color: #ff0000;
+
+}
+
+.banner-btn h6{
+	width: 40;
+	font-size: 30;
+	position: absolute;
+	top: 24%;
+	left: 81%;
+	color: #ff0000;
+
+}
+.banner-btn h2 a{
+	font-size: 15;
+    color: #0000ff;
+   }
+
+.banner-btn h3 a{
+	font-size: 15;
+    color: #0000ff;
+}
+.banner-btn h4 a{
+	font-size: 15;
+    color: #0000ff;
+    }
+.banner-btn h5 a{
+	font-size: 15;
+    color: #0000ff;
+}
+.banner-btn h6 a{
+	font-size: 15;
+    color: #0000ff;
+}
+}
