@@ -10,13 +10,9 @@
 	width: 100;
 	position: absolute;
 	left:2% ;
-}	top: 11%;
-#banner:
-mrgin-top:30%;
+	top: 11%;
 }
-
-
- .banner-text h1{
+.banner-text h1{
 	text-align: center;
 	font-size: 60px;
 	color: #009688;
