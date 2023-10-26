@@ -20,7 +20,7 @@
 .banner-text h1{
 	text-align: center;
 	font-size: 110px;
-	color: red;
+	color: 808000;
 }
 .banner-comment{
 
@@ -55,7 +55,7 @@
 }
 
 .banner-btn  a {
-    font-size: 20px;
+    font-size: 15px;
 	color:blue;
 	width: 200px;
 	text-decoration:none;
